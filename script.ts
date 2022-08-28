@@ -114,7 +114,7 @@ setInterval(DrawClock, 1000)
 //             }
 
 //         }
-//     }
+//  еуеуеуеу   }
 // }
 
 class Figure_pyramid { 
